@@ -24,13 +24,12 @@ Users should be able to:
 ### Screenshot
 
 ![](./dekstop-preview.png)
-![](./mobile-preview.png)
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: (https://www.frontendmentor.io/solutions/3columnpreviewcardcomponent-using-bootstrap-2MbXobuPHE)
+- Live Site URL: (https://madushi-3-column-preview-card-compone.netlify.app/)
 
 
 ### Built with
